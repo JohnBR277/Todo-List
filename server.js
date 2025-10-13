@@ -57,5 +57,3 @@ app.listen(PORT, async () => {
     await initDB();
     console.log(`Server running at http://localhost:${PORT}`);
 });
-
-
